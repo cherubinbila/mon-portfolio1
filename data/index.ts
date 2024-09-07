@@ -80,7 +80,7 @@ export const projects = [
 	},
 	{
 		id: 2,
-		title: "Mon portfolio v1",
+		title: "Mon portfolio v2",
 		des: "Ceci est la version de mon portfolio à jour.",
 		img: "/portfolio-v2.png",
 		iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
